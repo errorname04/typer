@@ -1238,7 +1238,6 @@ draw
 left
 late
 run
-don't
 while
 press
 close
@@ -1351,7 +1350,6 @@ heard
 best
 hour
 better
-true .
 during
 hundred
 five
